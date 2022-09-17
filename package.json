@@ -20,5 +20,8 @@
   },
   "keywords": [],
   "author": "TheJaredWilcurt/Gwendolyn Faraday",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.2.39"
+  }
 }
